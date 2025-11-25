@@ -19,15 +19,3 @@
     "node": ">=18.0.0"
   }
 }
-```
-
----
-
-### **ADIM 4: .gitignore Oluştur**
-
-`.gitignore` dosyası:
-```
-node_modules/
-.env
-.DS_Store
-npm-debug.log
